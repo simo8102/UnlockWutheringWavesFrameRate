@@ -1,1 +1,1 @@
-# simo8102-UnlockWutheringWavesFrameRate
+# 解锁鸣潮120帧
